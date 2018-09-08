@@ -1,6 +1,8 @@
 # mr_tabs
 
-A new Flutter application.
+A Swipe Tabs Flutter application example tutorial.
+
+Flutter Android Swipe Tabs with Cards example tutorial. Find complete tutorial [here](http://camposha.info/flutter/swipe-tabs-cards)
 
 ## Getting Started
 
